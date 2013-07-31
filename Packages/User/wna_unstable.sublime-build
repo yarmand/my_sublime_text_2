@@ -1,0 +1,5 @@
+{
+  "cmd": ["make"],
+  "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+  "working_dir": "/Users/yann/Dropbox/Projects/wna/unstable"
+}

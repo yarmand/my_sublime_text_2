@@ -1,0 +1,8 @@
+{
+	"color_scheme": "Packages/yann.tmTheme",
+	"ignored_packages":
+	[
+		"SublimeClang"
+	],
+	"vintage_start_in_command_mode": true
+}

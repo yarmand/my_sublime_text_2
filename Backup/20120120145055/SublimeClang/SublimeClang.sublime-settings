@@ -1,0 +1,133 @@
+{
+
+    // All options in here can also be specified in your project settings
+    // with a prepended "sublimeclang_" for example if you have
+    //
+    // "settings":
+    // {
+    //     "sublimeclang_show_visual_error_marks": false
+    // }
+    //
+    // in your project settings, this will override the settings specified
+    // in this file and in your user settings.
+
+
+    // Delay in ms until autocompletion pops up after . or :: or ->
+    // Set to 0 to disable
+    "popup_delay": 100,
+
+    // Delay in ms until recompiling the file after the buffer is modified
+    // Set to 0 to disable
+    "recompile_delay": 0,
+
+    // Whether or not to hide the clang output panel when it's empty
+    "hide_output_when_empty": false,
+
+    // Whether or not to automatically show the output panel.
+    // If set to false, the default key-binding ctrl+d,ctrl+p
+    // will show it
+    "show_output_panel": true,
+
+    // Whether or not to show the clang parser status in the status bar
+    "show_status": true,
+
+    // When set to true, will display visual error markers. recompile_delay
+    // must be set to > 0
+    "show_visual_error_marks": true,
+
+    // This is the bitmask sent to index.parse.
+    // For example, to be able to go to the definition of
+    // preprocessed macros, set it to 1, for using an implicit
+    // precompiled header set it to 4 and for caching completion
+    // results, set it to 8. Or all together 1+4+8=13.
+    //
+    // See http://clang.llvm.org/doxygen/group__CINDEX__TRANSLATION__UNIT.html#gab1e4965c1ebe8e41d71e90203a723fe9
+    // and http://clang.llvm.org/doxygen/Index_8h_source.html
+    // for more details
+    "index_parse_options": 13,
+
+    // If set to false, the main thread will lock while parsing
+    // the file, but commands will work the first time they are
+    // executed rather than the first time after warm up has
+    // finished
+    "warm_up_in_separate_thread": true,
+
+    // If set to true will warm up the cache for supported files
+    // when they are opened
+    "cache_on_load": true,
+
+    // If set to true will remove the file from the cache when
+    // it is closed
+    "remove_on_close": true,
+
+    // If set to true will pop the file from the navigation stack
+    // (automatic ctrl+d,ctrl+b) when the file is closed
+    "pop_on_close": true,
+
+    // When set to true a reparse command will be triggered
+    // when a view is activated
+    "reparse_on_activated": true,
+
+    // When set to true a reparse command will be triggered
+    // when a view is saved
+    "reparse_on_save": true,
+
+    // Scope used for markers in the clang output panel
+    "marker_output_panel_scope": "invalid",
+
+    // Scope used for warning markers
+    "marker_warning_scope": "comment",
+
+    // Scope used for error markers
+    "marker_error_scope": "invalid",
+
+    // Don't show stuff in the autocomplete list when the name starts with the following
+    "dont_complete_startswith":
+    [
+        "~",
+        "operator"
+    ],
+
+    // If set to true it'll add for example "-x c++" to the options for c++ files
+    "add_language_option": true,
+
+    // Any options you want to give to clang
+    // This can also be specified as project specific options. Choose the menu item
+    // Project->Edit Project, and then add something like the following to the
+    // "settings" section:
+    //
+    //     "sublimeclang_options":
+    //     [
+    //         "-I/project/specific/path/1",
+    //         "-I/project/specific/path/2"
+    //     ]
+    //
+    // If your project does not have a settings section it would look like this:
+    //
+    // "settings":
+    // {
+    //     "sublimeclang_options":
+    //     [
+    //         "-I/project/specific/path/1",
+    //         "-I/project/specific/path/2"
+    //     ]
+    // }
+    //
+    // If "sublimeclang_options" exists in your project settings, it'll override
+    // rather than add to the "options" defined in SublimeClang.sublime-settings.
+    "options":
+    [
+        "-Wall",
+        "-I/usr/lib/clang/3.0/include/",
+        "-I/usr/lib/clang/2.1/include/",
+        "-I/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/",
+        "-I/usr/lib/gcc/i686-apple-darwin11/4.2.1/include/",
+        // If you code for iOS, you want to have something like the following here:
+        //"-isysroot",
+        //"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk",
+        //"-D__IPHONE_OS_VERSION_MIN_REQUIRED=40300",
+        "-IC:/MinGW/include",
+        "-I/path/to/sources/1",
+        "-I/path/to/sources/2"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Abacus",
+		"ColorPicker",
+		"Default File Type",
+		"EncodingHelper",
+		"FileDiffs",
+		"Gist",
+		"Git",
+		"HTML5",
+		"Package Control",
+		"Rails Related Files",
+		"RSpec",
+		"RSpec (snippets and syntax)",
+		"RubyTest",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"StringEncode",
+		"sublime-split-navigation",
+		"SublimeClang",
+		"SublimeCodeIntel"
+	]
+}

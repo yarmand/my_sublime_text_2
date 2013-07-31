@@ -1,0 +1,558 @@
+{
+	"folder_history":
+	[
+		"/Users/yann/Dropbox/Projects/ohmyguest/ohmyguest-rails"
+	],
+	"last_window_id": 39,
+	"settings":
+	{
+		"new_window_height": 855.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"is",
+						"is_new"
+					],
+					[
+						"checkin",
+						"checkin_file"
+					],
+					[
+						"che",
+						"checkin_file"
+					],
+					[
+						"comm",
+						"commit_msg"
+					],
+					[
+						"force",
+						"force_checkin"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 47.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"diff",
+						"Set Syntax: Diff"
+					],
+					[
+						"",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 602.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/yann/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/yann/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+				"/Users/yann/Projects/wna/unstable.sublime-project",
+				"/Users/yann/Dropbox/Projects/wna/unstable/Makefile",
+				"/usr/src/xinet/wna/unstable/src/adminarchives/adminarchives.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/wna.h",
+				"/Users/yann/Library/Application Support/Sublime Text 2/Packages/User/make_simple.sublime-build",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/devices.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/mw/veritas_be/msdeComm.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/styles/wnarchive/css/portal/Exhibit.css",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/styles/wnarchive/index.html",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/styles/wnarchive/js/devices.js",
+				"/Users/yann/Dropbox/Projects/wna/sync_tools/syncer.rb",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/mw/veritas_be/localProcess.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/mw/mw.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/approve.c",
+				"/Users/yann/Projects/ohmyguest-rails/app/views/prestations/_form.html.haml",
+				"/Users/yann/Projects/ohmyguest-rails/app/assets/javascripts/prestations.js.coffee",
+				"/Users/yann/Dropbox/Projects/ohmyguest/ohmyguest-rails/app/assets/javascripts/prestations.js.coffee",
+				"/Users/yann/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/yann/Dropbox/Projects/wna/unstable/.gitignore",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/styles/wnarchive/js/approve.js",
+				"/Users/yann/Projects/wna/unstable/src/plugins/approve.c",
+				"/Users/yann/Projects/wna/stable/src/plugins/approve.c",
+				"/tmp/subl stdin gZIumR.txt",
+				"/tmp/subl stdin CExDi8.txt",
+				"/Users/yann/Dropbox/Projects/ohmyguest/ohmyguest-rails/app/models/user.rb",
+				"/Users/yann/Dropbox/Projects/ohmyguest/ohmyguest-rails/app/controllers/prestations_controller.rb",
+				"/Users/yann/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"find",
+					"checkin the file",
+					"force_checkin",
+					"commit_m",
+					".css",
+					"completion",
+					"mvim",
+					"class"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"index",
+						"src/plugins/styles/wnarchive/index.html"
+					],
+					[
+						"wna.h",
+						"src/wna.h"
+					],
+					[
+						"device",
+						"src/plugins/devices.c"
+					],
+					[
+						"msdec",
+						"src/mw/veritas_be/msdeComm.c"
+					],
+					[
+						"local",
+						"src/mw/veritas_be/localProcess.c"
+					],
+					[
+						"mw.c",
+						"src/mw/mw.c"
+					],
+					[
+						"appro",
+						"src/plugins/approve.c"
+					],
+					[
+						"devices.",
+						"src/plugins/devices.c"
+					],
+					[
+						"exhib",
+						"src/plugins/styles/wnarchive/css/portal/Exhibit.css"
+					],
+					[
+						"devices.js",
+						"src/plugins/styles/wnarchive/js/devices.js"
+					],
+					[
+						"",
+						".gitignore"
+					],
+					[
+						"app",
+						"src/plugins/styles/wnarchive/js/approve.js"
+					],
+					[
+						"approv",
+						"src/plugins/approve.c"
+					],
+					[
+						"prest",
+						"app/controllers/prestations_controller.rb"
+					],
+					[
+						"usercon",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 175.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1219.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"is",
+						"is_new"
+					],
+					[
+						"checkin",
+						"checkin_file"
+					],
+					[
+						"che",
+						"checkin_file"
+					],
+					[
+						"comm",
+						"commit_msg"
+					],
+					[
+						"force",
+						"force_checkin"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 47.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"diff",
+						"Set Syntax: Diff"
+					],
+					[
+						"",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 602.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/yann/Projects/wna/unstable.sublime-project",
+				"/Users/yann/Dropbox/Projects/wna/unstable/Makefile",
+				"/usr/src/xinet/wna/unstable/src/adminarchives/adminarchives.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/wna.h",
+				"/Users/yann/Library/Application Support/Sublime Text 2/Packages/User/make_simple.sublime-build",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/devices.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/mw/veritas_be/msdeComm.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/styles/wnarchive/css/portal/Exhibit.css",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/styles/wnarchive/index.html",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/styles/wnarchive/js/devices.js",
+				"/Users/yann/Dropbox/Projects/wna/sync_tools/syncer.rb",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/mw/veritas_be/localProcess.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/mw/mw.c",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/approve.c",
+				"/Users/yann/Projects/ohmyguest-rails/app/views/prestations/_form.html.haml",
+				"/Users/yann/Projects/ohmyguest-rails/app/assets/javascripts/prestations.js.coffee",
+				"/Users/yann/Dropbox/Projects/ohmyguest/ohmyguest-rails/app/assets/javascripts/prestations.js.coffee",
+				"/Users/yann/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/yann/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/yann/Dropbox/Projects/wna/unstable/.gitignore",
+				"/Users/yann/Dropbox/Projects/wna/unstable/src/plugins/styles/wnarchive/js/approve.js",
+				"/Users/yann/Projects/wna/unstable/src/plugins/approve.c",
+				"/Users/yann/Projects/wna/stable/src/plugins/approve.c",
+				"/tmp/subl stdin gZIumR.txt",
+				"/tmp/subl stdin CExDi8.txt",
+				"/Users/yann/Dropbox/Projects/ohmyguest/ohmyguest-rails/app/models/user.rb",
+				"/Users/yann/Dropbox/Projects/ohmyguest/ohmyguest-rails/app/controllers/prestations_controller.rb",
+				"/Users/yann/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"checkin the file",
+					"force_checkin",
+					"commit_m",
+					".css",
+					"completion",
+					"mvim",
+					"class"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/yann/Library/Application Support/Sublime Text 2/Packages/SublimeQuickFind"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "333 161 1219 877 0 0 1920 1178 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"index",
+						"src/plugins/styles/wnarchive/index.html"
+					],
+					[
+						"wna.h",
+						"src/wna.h"
+					],
+					[
+						"device",
+						"src/plugins/devices.c"
+					],
+					[
+						"msdec",
+						"src/mw/veritas_be/msdeComm.c"
+					],
+					[
+						"local",
+						"src/mw/veritas_be/localProcess.c"
+					],
+					[
+						"mw.c",
+						"src/mw/mw.c"
+					],
+					[
+						"appro",
+						"src/plugins/approve.c"
+					],
+					[
+						"devices.",
+						"src/plugins/devices.c"
+					],
+					[
+						"exhib",
+						"src/plugins/styles/wnarchive/css/portal/Exhibit.css"
+					],
+					[
+						"devices.js",
+						"src/plugins/styles/wnarchive/js/devices.js"
+					],
+					[
+						"",
+						".gitignore"
+					],
+					[
+						"app",
+						"src/plugins/styles/wnarchive/js/approve.js"
+					],
+					[
+						"approv",
+						"src/plugins/approve.c"
+					],
+					[
+						"prest",
+						"app/controllers/prestations_controller.rb"
+					],
+					[
+						"usercon",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 175.0,
+			"status_bar_visible": true,
+			"window_id": 39,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/yann/Projects/wna/unstable.sublime-project",
+			"/Users/yann/Projects/wna/stable.sublime-project"
+		]
+	}
+}
