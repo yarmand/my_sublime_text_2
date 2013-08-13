@@ -651,7 +651,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 0.0,
 				"where_history":
 				[
 					"",
@@ -1167,8 +1167,8 @@
 								"selection":
 								[
 									[
-										902,
-										902
+										901,
+										901
 									]
 								],
 								"settings":
@@ -1222,7 +1222,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "64 0 1271 746 0 0 1366 746 ",
+			"position": "437 312 1271 746 0 0 1920 1058 ",
 			"replace":
 			{
 				"height": 64.0
